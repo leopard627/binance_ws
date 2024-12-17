@@ -34,7 +34,7 @@ chrono = "0.4"
 1. Clone the repository:
 ```bash
 git clone https://github.com/leopard627/binance_ws
-cd binance-ws-client
+cd binance_ws
 ```
 
 2. Build the project:
